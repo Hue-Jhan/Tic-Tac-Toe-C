@@ -1,6 +1,7 @@
 # Tic-Tac-Toe-C
 Medium to Hard Difficulty Tic Tac Toe with swag interface
 You can choose to play against PC or another person.
+![alt text](https://github.com/Hue-Jhan/Tic-Tac-Toe-C/blob/main/tictactoe.png?raw=true)
 
 # Difficulty
 The function checkwinner is the simple win condition.
